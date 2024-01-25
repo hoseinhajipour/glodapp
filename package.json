@@ -1,0 +1,25 @@
+{
+  "name": "io.cordova.hellocordova",
+  "displayName": "حباب طل",
+  "version": "1.0.0",
+  "description": "محاسبه حباب طل",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "cordova": {
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "devDependencies": {
+    "cordova-android": "^12.0.1",
+    "cordova-browser": "^7.0.0"
+  }
+}
